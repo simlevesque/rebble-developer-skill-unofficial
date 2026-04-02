@@ -182,6 +182,7 @@ echo "  wrote examples.md ($lines lines)"
 # ---------------------------------------------------------------------------
 {
 cat <<'HEADER'
+<!-- Generated from pebble-dev/developer.rebble.io (Apache 2.0) with modifications -->
 ---
 name: rebble-developer
 description: Rebble/Pebble watchapp developer documentation. Use when helping develop Pebble watchapps, answering questions about the Pebble C SDK, PebbleKit JS/Android/iOS, Rocky.js, app configuration, communication, UI layers, resources, publishing, or any Pebble/Rebble platform topic.
