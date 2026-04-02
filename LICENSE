@@ -166,31 +166,3 @@ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
    of your accepting any warranty or additional liability.
 
 END OF TERMS AND CONDITIONS
-
----
-
-DERIVATIVE WORK NOTICE
-
-This repository contains derivative works based on the Pebble developer
-documentation originally published at https://developer.rebble.io and
-maintained at https://github.com/pebble-dev/developer.rebble.io.
-
-The original work is:
-
-    Copyright 2025 Google LLC
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-The documentation content in this repository (the generated .md files and
-the build script that produces them) is a derivative work consisting of
-reformatted and transformed extracts from the original source. Changes made
-include: removal of Jekyll/Liquid template markup, restructuring into
-topic-grouped Markdown files, and addition of a skill manifest
-(SKILL.md).
-
-This derivative work is distributed under the same Apache License, Version
-2.0, as the original.

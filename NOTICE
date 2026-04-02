@@ -1,0 +1,14 @@
+Rebble Developer Skill (unofficial)
+Copyright 2025 simlevesque
+
+This product contains derivative works based on the Pebble developer
+documentation originally published at https://developer.rebble.io and
+maintained at https://github.com/pebble-dev/developer.rebble.io.
+
+The original work is:
+
+    Copyright 2025 Google LLC
+    Licensed under the Apache License, Version 2.0
+
+Changes made: removal of Jekyll/Liquid template markup, restructuring into
+topic-grouped Markdown files, and addition of a skill manifest (SKILL.md).
