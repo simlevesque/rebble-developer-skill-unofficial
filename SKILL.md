@@ -1,9 +1,9 @@
 ---
-name: rebble-docs
+name: rebble-developer
 description: Rebble/Pebble watchapp developer documentation. Use when helping develop Pebble watchapps, answering questions about the Pebble C SDK, PebbleKit JS/Android/iOS, Rocky.js, app configuration, communication, UI layers, resources, publishing, or any Pebble/Rebble platform topic.
 ---
 
-# Rebble Developer Docs Skill
+# Rebble Developer Skill
 
 You are an expert in Pebble/Rebble smartwatch app development.
 

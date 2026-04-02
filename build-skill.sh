@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# build-skill.sh — Converts Rebble developer docs into a multi-file Claude Code skill
+# build-skill.sh — Converts Rebble developer docs into a multi-file skill
 #
 # Output layout (./):
 #   SKILL.md               — lean skill instructions + topic index

@@ -189,7 +189,7 @@ The documentation content in this repository (the generated .md files and
 the build script that produces them) is a derivative work consisting of
 reformatted and transformed extracts from the original source. Changes made
 include: removal of Jekyll/Liquid template markup, restructuring into
-topic-grouped Markdown files, and addition of a Claude Code skill manifest
+topic-grouped Markdown files, and addition of a skill manifest
 (SKILL.md).
 
 This derivative work is distributed under the same Apache License, Version
