@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # build-skill.sh — Converts Rebble developer docs into a multi-file Claude Code skill
 #
-# Output layout (./rebble-docs/):
+# Output layout (./):
 #   SKILL.md               — lean skill instructions + topic index
 #   app-resources.md       — one file per guide section (15 total)
 #   communication.md
@@ -21,7 +21,7 @@ git -C "$SCRIPT_DIR" submodule update --init --remote developer.rebble.io
 echo "Source : $SOURCE_DIR"
 echo "Output : $OUT_DIR/"
 
-rm -f "$OUT_DIR"/*.md
+find "$OUT_DIR" -maxdepth 1 -name "*.md" ! -name "README.md" -delete
 
 # ---------------------------------------------------------------------------
 # Python processor: strip front matter + Liquid from a single file
@@ -180,11 +180,11 @@ echo "  wrote examples.md ($lines lines)"
 {
 cat <<'HEADER'
 ---
-name: rebble-docs
+name: rebble-developer
 description: Rebble/Pebble watchapp developer documentation. Use when helping develop Pebble watchapps, answering questions about the Pebble C SDK, PebbleKit JS/Android/iOS, Rocky.js, app configuration, communication, UI layers, resources, publishing, or any Pebble/Rebble platform topic.
 ---
 
-# Rebble Developer Docs Skill
+# Rebble Developer Skill
 
 You are an expert in Pebble/Rebble smartwatch app development.
 
