@@ -1,0 +1,3 @@
+[submodule "developer.rebble.io"]
+	path = developer.rebble.io
+	url = git@github.com:pebble-dev/developer.rebble.io.git
