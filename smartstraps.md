@@ -1,3 +1,5 @@
+<!-- Generated from pebble-dev/developer.rebble.io (Apache 2.0) with modifications -->
+
 # Smartstraps
 
 > Information on creating and talking to smartstraps.

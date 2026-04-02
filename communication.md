@@ -1,3 +1,5 @@
+<!-- Generated from pebble-dev/developer.rebble.io (Apache 2.0) with modifications -->
+
 # Communication
 
 > How to talk to the phone via PebbleKit with JavaScript and on Android or iOS.

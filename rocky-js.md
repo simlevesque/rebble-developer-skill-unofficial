@@ -1,3 +1,5 @@
+<!-- Generated from pebble-dev/developer.rebble.io (Apache 2.0) with modifications -->
+
 # Rocky Js
 
 > Information on using JavaScript to create watchfaces with Rocky.js

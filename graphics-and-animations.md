@@ -1,3 +1,5 @@
+<!-- Generated from pebble-dev/developer.rebble.io (Apache 2.0) with modifications -->
+
 # Graphics And Animations
 
 > Information on using animations and drawing shapes, text, and images, as well as more advanced techniques.

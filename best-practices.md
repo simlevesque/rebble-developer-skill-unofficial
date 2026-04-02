@@ -1,3 +1,5 @@
+<!-- Generated from pebble-dev/developer.rebble.io (Apache 2.0) with modifications -->
+
 # Best Practices
 
 > Information to help optimize apps and ensure a good user experience.

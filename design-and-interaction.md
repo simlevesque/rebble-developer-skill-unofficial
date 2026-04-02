@@ -1,3 +1,5 @@
+<!-- Generated from pebble-dev/developer.rebble.io (Apache 2.0) with modifications -->
+
 # Design And Interaction
 
 > How to design apps to maximise engagement, satisfaction, efficiency and overall user experience.

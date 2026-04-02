@@ -1,3 +1,5 @@
+<!-- Generated from pebble-dev/developer.rebble.io (Apache 2.0) with modifications -->
+
 # Example Apps
 
 Curated Pebble example apps on GitHub. Each repo is a complete, buildable project.

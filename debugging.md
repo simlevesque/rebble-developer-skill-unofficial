@@ -1,3 +1,5 @@
+<!-- Generated from pebble-dev/developer.rebble.io (Apache 2.0) with modifications -->
+
 # Debugging
 
 > How to find and fix common compilation and runtime problems in apps.

@@ -1,3 +1,5 @@
+<!-- Generated from pebble-dev/developer.rebble.io (Apache 2.0) with modifications -->
+
 # User Interfaces
 
 > How to build app user interfaces. Includes information on events, persistent storage, background worker, wakeups and app configuration.

@@ -1,3 +1,5 @@
+<!-- Generated from pebble-dev/developer.rebble.io (Apache 2.0) with modifications -->
+
 # App Resources
 
 > Information on the many kinds of files that can be used inside Pebble apps.

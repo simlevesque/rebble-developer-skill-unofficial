@@ -1,3 +1,5 @@
+<!-- Generated from pebble-dev/developer.rebble.io (Apache 2.0) with modifications -->
+
 # Tools And Resources
 
 > Information on all the software tools available when writing Pebble apps, as well as other resources.

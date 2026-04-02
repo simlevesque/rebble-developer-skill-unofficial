@@ -1,3 +1,5 @@
+<!-- Generated from pebble-dev/developer.rebble.io (Apache 2.0) with modifications -->
+
 # Events And Services
 
 > How to get data from the onboard sensors including the accelerometer, compass, and microphone.

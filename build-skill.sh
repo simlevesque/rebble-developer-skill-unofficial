@@ -93,6 +93,8 @@ while IFS= read -r section_dir; do
     heading="$(to_title_case "$section")"
 
     {
+        echo "<!-- Generated from pebble-dev/developer.rebble.io (Apache 2.0) with modifications -->"
+        echo ""
         echo "# $heading"
         echo ""
 
@@ -138,7 +140,8 @@ src, dst = sys.argv[1], sys.argv[2]
 with open(src, encoding='utf-8') as f:
     examples = yaml.safe_load(f)
 
-lines = ["# Example Apps\n",
+lines = ["<!-- Generated from pebble-dev/developer.rebble.io (Apache 2.0) with modifications -->\n",
+         "# Example Apps\n",
          "Curated Pebble example apps on GitHub. Each repo is a complete, buildable project.\n"]
 
 # Featured first, then rest alphabetically

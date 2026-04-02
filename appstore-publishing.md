@@ -1,3 +1,5 @@
+<!-- Generated from pebble-dev/developer.rebble.io (Apache 2.0) with modifications -->
+
 # Appstore Publishing
 
 > How to get your app ready for going live in the Pebble appstore.
